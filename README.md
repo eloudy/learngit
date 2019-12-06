@@ -1,4 +1,6 @@
 # learngit
+add from dev branch the 2nd time
+
 add from dev branch
 
 …or create a new repository on the command line
