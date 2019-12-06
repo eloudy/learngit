@@ -1,4 +1,6 @@
 # learngit
+add from master branch
+
 add from dev branch
 
 …or create a new repository on the command line
